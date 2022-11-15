@@ -5,7 +5,6 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<%@ page import = "" %>
 
 <!DOCTYPE html>
 <html lang="en">
